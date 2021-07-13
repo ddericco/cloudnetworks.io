@@ -76,7 +76,7 @@ colon:                 ':'
 separator:             '|'
 category_start:        'in '
 category_spearator:    ' / '
-tag_start:             'on '
+tag_start:             'in '
 tag_separator:         ', '
 from_to_separator:     '–'
 breadcrumbs_home:      'home'
@@ -85,7 +85,7 @@ breadcrumbs_separator: '/'
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
-  post:                '%d %b %Y'
+  post:                '%Y-%m-%d'
   last_modified_at:    '%Y-%m-%d'
   related_post:        '%d %b %Y'
   list_group_by:       '%Y'
